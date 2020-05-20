@@ -16,10 +16,10 @@ public class OptimizeGraphic : MonoBehaviour
     void Optimize()
     {
         Application.targetFrameRate = m_targetFrameRate;
-        int width = (int)(Screen.width * m_scaleResolution);
-        int height = (int)(Screen.height * m_scaleResolution);
-        Screen.SetResolution(width, height, true);
-
-        QualitySettings.antiAliasing = m_antiAliasing;
+        // int width = (int)(Screen.width * m_scaleResolution);
+        // int height = (int)(Screen.height * m_scaleResolution);
+        // Screen.SetResolution(width, height, true);
+        //
+        // QualitySettings.antiAliasing = m_antiAliasing;
     }
 }
