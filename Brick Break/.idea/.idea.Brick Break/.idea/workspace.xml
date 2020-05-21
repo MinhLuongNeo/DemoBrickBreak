@@ -32,12 +32,14 @@
         <option value="$PROJECT_DIR$/Assets/Shader/Mobile-Diffuse.shader" />
         <option value="$PROJECT_DIR$/Assets/My Shader/Mobile-Diffuse Tint.shader" />
         <option value="$PROJECT_DIR$/Assets/My Shader/Mobile-Diffuse Emission.shader" />
-        <option value="$PROJECT_DIR$/Assets/Media/My Shader/Mobile-VertexLit Color.shader" />
         <option value="$USER_HOME$/Lưu trữ/builtin_shaders-2018.4.21f1/DefaultResourcesExtra/Mobile/Mobile-VertexLit-OnlyDirectionalLights.shader" />
         <option value="$PROJECT_DIR$/Assets/Media/My Shader/Mobile-VertexLit-OnlyDirectionalLights.shader" />
         <option value="$PROJECT_DIR$/Assets/Media/My Shader/Mobile-Vertex Emission.shader" />
-        <option value="$PROJECT_DIR$/Assets/Media/My Shader/Mobile-VertexLit Emission.shader" />
         <option value="$PROJECT_DIR$/Assets/Media/My Shader/Mobile-VertexLit-OnlyDirectionalLights Emission.shader" />
+        <option value="$PROJECT_DIR$/Assets/Media/My Shader/Mobile-Diffuse Color.shader" />
+        <option value="$PROJECT_DIR$/Assets/Media/My Shader/Mobile-VertexLit Color.shader" />
+        <option value="$PROJECT_DIR$/Assets/Media/My Shader/Mobile-VertexLit Emission.shader" />
+        <option value="$PROJECT_DIR$/Assets/Media/My Shader/Mobile-VertexLit-OnlyDirectionalLights Color.shader" />
         <option value="$PROJECT_DIR$/Assets/Media/My Shader/Mobile-Diffuse Emission.shader" />
       </list>
     </option>
