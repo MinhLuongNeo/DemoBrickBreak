@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Wall
-  m_Shader: {fileID: 4800000, guid: e2a4a0498d21746b4aa3a72de54975cd, type: 3}
+  m_Shader: {fileID: 4800000, guid: 361fe1281f95c4b6eb5c5417ac70e7fc, type: 3}
   m_ShaderKeywords: _GLOSSYREFLECTIONS_OFF _SPECULARHIGHLIGHTS_OFF
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 1
@@ -75,5 +75,5 @@ Material:
     - _ZWrite: 1
     m_Colors:
     - _Color: {r: 0.2830189, g: 0.2830189, b: 0.2830189, a: 1}
-    - _EmissionColor: {r: 0.14150941, g: 0.14150941, b: 0.14150941, a: 1}
+    - _EmissionColor: {r: 0.24580252, g: 0.24580252, b: 0.24580252, a: 1}
     - _TintColor: {r: 0.20265219, g: 0.4635615, b: 0.6226415, a: 1}

@@ -13,9 +13,15 @@
           <e p="Gun.cs" t="Include" />
           <e p="OptimizeGraphic.cs" t="Include" />
         </e>
-        <e p="My Shader" t="Include">
-          <e p="Mobile-Diffuse Emission.shader" t="Include" />
-          <e p="Mobile-Diffuse Tint.shader" t="Include" />
+        <e p="Media" t="Include">
+          <e p="My Shader" t="Include">
+            <e p="Mobile-Diffuse Color.shader" t="Include" />
+            <e p="Mobile-Diffuse Emission.shader" t="Include" />
+            <e p="Mobile-VertexLit Color.shader" t="Include" />
+            <e p="Mobile-VertexLit Emission.shader" t="Include" />
+            <e p="Mobile-VertexLit-OnlyDirectionalLights Color.shader" t="Include" />
+            <e p="Mobile-VertexLit-OnlyDirectionalLights Emission.shader" t="Include" />
+          </e>
         </e>
         <e p="Package" t="Include">
           <e p="Demigiant" t="Include">
